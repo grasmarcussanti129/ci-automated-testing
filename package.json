@@ -16,5 +16,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/user/ci-automated-testing.git"
-  }
+  },
+  "license": "MIT"
 }
