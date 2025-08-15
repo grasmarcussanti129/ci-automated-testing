@@ -1,0 +1,6 @@
+{
+  "testFramework": "jest",
+  "testDirectory": "./tests",
+  "reportOutput": "./reports/test-results.json",
+  "ciIntegration": "github-actions"
+}
