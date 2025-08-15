@@ -1,6 +1,6 @@
 {
-  "testFramework": "jest",
-  "testDirectory": "./tests",
-  "reportOutput": "./reports/test-results.json",
-  "ciIntegration": "github-actions"
+  "testFramework": "jest",  // Framework used for testing
+  "testDirectory": "./tests",  // Directory where tests are located
+  "reportOutput": "./reports/test-results.json",  // Path for the test results report
+  "ciIntegration": "github-actions"  // CI integration used
 }
