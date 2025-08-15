@@ -1,6 +1,8 @@
 {
   "name": "ci-automated-testing",
   "version": "1.0.0",
+  "description": "A package for automated testing in CI environments.",
+  "keywords": ["CI", "testing", "automation"],
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
